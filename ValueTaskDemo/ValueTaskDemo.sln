@@ -6,6 +6,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTaskDemo", "ValueTaskD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel-ForEach-Demo", "..\Parallel-ForEach-Demo\Parallel-ForEach-Demo.csproj", "{3D4E6232-2010-443D-8257-989866832AFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parllel-Invoke-Demo", "..\Parllel-Invoke-Demo\Parllel-Invoke-Demo.csproj", "{25444800-1974-413B-984A-4549F27DB6A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{3D4E6232-2010-443D-8257-989866832AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D4E6232-2010-443D-8257-989866832AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D4E6232-2010-443D-8257-989866832AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25444800-1974-413B-984A-4549F27DB6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25444800-1974-413B-984A-4549F27DB6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25444800-1974-413B-984A-4549F27DB6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25444800-1974-413B-984A-4549F27DB6A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
