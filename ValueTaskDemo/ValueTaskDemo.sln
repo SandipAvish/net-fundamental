@@ -2,7 +2,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTaskDemo", "ValueTaskDemo.csproj", "{A0D53F2D-5FF8-140B-3BD5-2ACCAF7ED51A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTaskDemo", "ValueTaskDemo.csproj", "{A0D53F2D-5FF8-140B-3BD5-2ACCAF7ED51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel-ForEach-Demo", "..\Parallel-ForEach-Demo\Parallel-ForEach-Demo.csproj", "{3D4E6232-2010-443D-8257-989866832AFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{A0D53F2D-5FF8-140B-3BD5-2ACCAF7ED51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0D53F2D-5FF8-140B-3BD5-2ACCAF7ED51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0D53F2D-5FF8-140B-3BD5-2ACCAF7ED51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4E6232-2010-443D-8257-989866832AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4E6232-2010-443D-8257-989866832AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4E6232-2010-443D-8257-989866832AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4E6232-2010-443D-8257-989866832AFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
