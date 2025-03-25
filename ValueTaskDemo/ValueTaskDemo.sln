@@ -4,9 +4,11 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTaskDemo", "ValueTaskDemo.csproj", "{A0D53F2D-5FF8-140B-3BD5-2ACCAF7ED51A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel-ForEach-Demo", "..\Parallel-ForEach-Demo\Parallel-ForEach-Demo.csproj", "{3D4E6232-2010-443D-8257-989866832AFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parallel-ForEach-Demo", "..\Parallel-ForEach-Demo\Parallel-ForEach-Demo.csproj", "{3D4E6232-2010-443D-8257-989866832AFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parllel-Invoke-Demo", "..\Parllel-Invoke-Demo\Parllel-Invoke-Demo.csproj", "{25444800-1974-413B-984A-4549F27DB6A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parllel-Invoke-Demo", "..\Parllel-Invoke-Demo\Parllel-Invoke-Demo.csproj", "{25444800-1974-413B-984A-4549F27DB6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lock-vs-Interlock", "..\Lock-vs-Interlock\Lock-vs-Interlock.csproj", "{7872C995-1522-40EE-A00C-1ABE4F4E76C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{25444800-1974-413B-984A-4549F27DB6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25444800-1974-413B-984A-4549F27DB6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25444800-1974-413B-984A-4549F27DB6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7872C995-1522-40EE-A00C-1ABE4F4E76C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7872C995-1522-40EE-A00C-1ABE4F4E76C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7872C995-1522-40EE-A00C-1ABE4F4E76C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7872C995-1522-40EE-A00C-1ABE4F4E76C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
