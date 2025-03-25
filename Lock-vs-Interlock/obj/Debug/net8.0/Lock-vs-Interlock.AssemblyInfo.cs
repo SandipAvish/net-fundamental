@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lock-vs-Interlock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42ecd9993c1ce0d2f036f229c7b3efcbe7ec13b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87a96328fc8f7da3ccc6c38ff470f6f280ebd074")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lock-vs-Interlock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lock-vs-Interlock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
